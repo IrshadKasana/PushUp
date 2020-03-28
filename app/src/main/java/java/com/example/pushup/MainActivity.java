@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void testinggit(){
         EditText a;
+        int r;
     }
 }
